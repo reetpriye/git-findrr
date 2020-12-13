@@ -30,3 +30,5 @@ yarn-error.log*
 
 #Debug Log File
 debug.log
+# Local Netlify folder
+.netlify
