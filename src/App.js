@@ -2,7 +2,7 @@ import axios from 'axios';
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 
 import React, { useState, Fragment } from 'react';
-import Navbar from './components/Navbar';
+import Navbar from './components/layout/Navbar';
 import Alert from './components/layout/Alert';
 import Search from './components/users/Search';
 import Users from './components/users/Users';
