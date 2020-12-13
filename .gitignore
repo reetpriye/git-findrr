@@ -24,3 +24,9 @@ yarn-error.log*
 
 #VS Code Settings
 /.vscode
+
+#ESlint Cache
+.eslintcache
+
+#Debug Log File
+debug.log
