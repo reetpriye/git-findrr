@@ -1,7 +1,7 @@
-import Search from '../users/Search';
-import Users from '../users/Users';
+import Search from "../users/Search";
+import Users from "../users/Users";
 
-import React, {Fragment} from 'react'
+import React, { Fragment } from "react";
 
 const Home = () => {
   return (
@@ -9,7 +9,7 @@ const Home = () => {
       <Search />
       <Users />
     </Fragment>
-  )
-}
+  );
+};
 
 export default Home;
