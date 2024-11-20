@@ -1,4 +1,4 @@
-![Screenshot](screenshot.png)
+![Screenshot](./screenshot.png)
 
 GitFindrr is a web application built using React that allows users to search for and display detailed GitHub profile information. It integrates the GitHub API to fetch and present data in an intuitive and user-friendly interface.
 
